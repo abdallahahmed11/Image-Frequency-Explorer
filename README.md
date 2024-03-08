@@ -1,8 +1,8 @@
-# Fourier Transform Mixer
+# Image Frequency Explorer
 
 ## Overview
 
-The Fourier Transform Mixer is an advanced desktop application designed for signal processing enthusiasts and professionals alike. It offers a unique platform to explore and understand the critical aspects of magnitude, phase, and frequency contributions in signals, with a special focus on 2D signals such as images. By enabling the manipulation and mixing of Fourier Transform (FT) components of grayscale images, the application serves as an educational tool to demonstrate the intricate ways in which these components influence the final composition of the signal.
+The Image Frequency Explorer is an advanced desktop application designed for signal processing enthusiasts and professionals alike. It offers a unique platform to explore and understand the critical aspects of magnitude, phase, and frequency contributions in signals, with a special focus on 2D signals such as images. By enabling the manipulation and mixing of Fourier Transform (FT) components of grayscale images, the application serves as an educational tool to demonstrate the intricate ways in which these components influence the final composition of the signal.
 
 ## Features
 
